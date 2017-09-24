@@ -20,7 +20,7 @@ export class RestErrorMiddleware {
 
     // External http call errors
     if (err.statusCode) {
-      return next(new RestError(err.message, err.statusCode, err.message, err.name));
+      return next(new RestError(err.message, err.statusCode, err.name, err.name));
     }
 
     // Internal error
