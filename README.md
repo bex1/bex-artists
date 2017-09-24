@@ -14,7 +14,7 @@ Take a look under `src/app/api/routes/artists` to see the implementation for the
 
 ```sh
 # clone the repo
-git clone https://github.com/bex1/bex-artists.git master
+git clone https://github.com/bex1/bex-artists.git bex-artists
 
 # change directory to the app
 cd bex-artists
