@@ -28,6 +28,7 @@ yarn run dev
 
 Browse to:
 http://localhost:3000
+or
 http://localhost:3000/api/artists/5b11f4ce-a62d-471e-81fc-a69a8278c7da
 
 #### Dev Configuration
