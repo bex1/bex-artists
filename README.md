@@ -14,10 +14,10 @@ Take a look under `src/app/api/routes/artists` to see the implementation for the
 
 ```sh
 # clone the repo
-git clone https://github.com/bex1/test.git master
+git clone https://github.com/bex1/bex-artists.git master
 
 # change directory to the app
-cd bex-artist
+cd bex-artists
 
 # install the dependencies with yarn or npm
 yarn install
