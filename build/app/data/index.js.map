@@ -1,1 +1,0 @@
-{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../src/app/data/index.ts"],"names":[],"mappings":";;;;;AAAA,qCAAgC;AAChC,8BAAyB;AACzB,yCAAoC","sourcesContent":["export * from './data-services';\nexport * from './models';\nexport * from './app-data-services';"]}
