@@ -1,0 +1,1 @@
+{"version":3,"file":"artists-service.js","sourceRoot":"","sources":["../../../../../src/app/data/data-services/artists/artists-service.ts"],"names":[],"mappings":"","sourcesContent":["import { Artist } from '../../models';\n\nexport interface ArtistsService {\n  get(id: string): Promise<Artist>;\n}\n"]}

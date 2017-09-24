@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../../src/app/data/data-services/artists/index.ts"],"names":[],"mappings":";;;;;AACA,4CAAuC","sourcesContent":["export * from './artists-service';\nexport * from './impl-artists-service';\n"]}

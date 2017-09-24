@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../src/app/data/models/index.ts"],"names":[],"mappings":";;;;;AAAA,8BAAyB;AACzB,6BAAwB","sourcesContent":["export * from './artist';\nexport * from './album';\n"]}
